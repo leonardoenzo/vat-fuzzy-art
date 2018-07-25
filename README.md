@@ -6,6 +6,6 @@ The data sets used in the experiments section of the VAT+Fuzzy ART paper are ava
 
 3. Datasets package: https://www.researchgate.net/publication/239525861_Datasets_package
 
-4.Clustering basic benchmark: http://cs.uef.fi/sipu/datasets
+4. Clustering basic benchmark: http://cs.uef.fi/sipu/datasets
 
 The "main_example.m" file contains an example of usage of the code provided.
